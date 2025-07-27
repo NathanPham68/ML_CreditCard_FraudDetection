@@ -2,3 +2,48 @@
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/56ba39ba-05bf-4e49-af8d-895d5d7b9863" />
 
+This project focuses on building a basic Machine Learning model to detect fraudulent credit card transactions. We use a structured dataset containing real-world transaction details, including customer demographics, transaction metadata, and merchant information.
+
+The key objective is to classify whether a transaction is fraudulent (1) or legitimate (0) using various features in the dataset.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
