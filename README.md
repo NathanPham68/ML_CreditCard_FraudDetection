@@ -56,7 +56,7 @@ The main goal of this project is to:
 
 ## 📈 Analysis & Results
 
-[**Link to code**](https://drive.google.com/file/d/1vdyGBJQgKGCFb16Cn9IhqvpkLlDFqf3F/view?usp=sharing)
+[**Link to code**](https://colab.research.google.com/drive/1vdyGBJQgKGCFb16Cn9IhqvpkLlDFqf3F)
 
 ### ✅ I. Import libraries
 
